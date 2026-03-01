@@ -595,7 +595,7 @@ with tab3:
 st.divider()
 st.markdown("""
 <div style='text-align:center;color:#8892a4;font-size:0.85rem'>
-PrecastAI — Built for L&T CreaTech '26 | #JustLeap |
+PrecastAI — Built for L&T CreaTech '26 |
 Gradient Boosting Model | R²=0.8822 | 
 4 Indian Climate Zones | Physics-Informed ML
 </div>
